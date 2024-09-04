@@ -66,6 +66,7 @@ Ok go win and have fun!
 # Fire Red Location Specifics
 
 | Location                              | Notes                                                                                                                                                                                                                           |
+| :-----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Viridian Forest/Rival                 | ForestFriend (First Pokemon you encounter after receiving the PokeBalls from Oak) No repels allowed.                                                                                                                            |
 | Brock / Mt. Moon                      | BrockBuddy (First PokeMon you encounter after Viridian forest on Route 2)                                                                                                                                                       |
 | Misty / SS Anne / Surge / Rock Tunnel | Misty Mate: Magikarp LvL 5 (Purchased for 500 Poke Dollars in the Route 4 Poke Center) If you forget this Pal, you may go through Diglett cave to retrieve, but do not grab the items or use the move tutors on the other side. |
