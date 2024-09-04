@@ -2,6 +2,8 @@
 
 Created By [BigMurph619](https://www.twitch.tv/bigmurph619)
 
+## [Rules](#rules) | [Location Specifics](#fire-red-location-specifics)
+
 ---
 
 Sometimes, dungeons can be a bit scary. 
