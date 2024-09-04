@@ -65,22 +65,22 @@ Ok go win and have fun!
 
 # Fire Red Location Specifics
 
-| Location | Notes |
-| Viridian Forest/Rival | ForestFriend (First Pokemon you encounter after receiving the PokeBalls from Oak) No repels allowed. |
-| Brock / Mt. Moon | BrockBuddy (First PokeMon you encounter after Viridian forest on Route 2) |
+| Location                              | Notes                                                                                                                                                                                                                           |
+| Viridian Forest/Rival                 | ForestFriend (First Pokemon you encounter after receiving the PokeBalls from Oak) No repels allowed.                                                                                                                            |
+| Brock / Mt. Moon                      | BrockBuddy (First PokeMon you encounter after Viridian forest on Route 2)                                                                                                                                                       |
 | Misty / SS Anne / Surge / Rock Tunnel | Misty Mate: Magikarp LvL 5 (Purchased for 500 Poke Dollars in the Route 4 Poke Center) If you forget this Pal, you may go through Diglett cave to retrieve, but do not grab the items or use the move tutors on the other side. |
-| Hideout | Hideout Homie: Eevee LvL 25 (Free from Celadon Roof, enter through the back door) |
-| Tower | Tower Teammate: Celadon Game Corner Buy-a-mon (Abra LvL 9, Clefairy LvL 8, Dratini LvL 18, Scyther LvL 25, Porygon LvL 26) |
-| Erika | Erika Expounder: Marowak in Lav Tower |
-| Koga | Koga Companion: Snorlax 1 LvL 30 (Route 12) |
-| Dojo | Dojo Devotee: Snorlax 2 LvL (Route 16) |
-| Silph Co | Silph Sidekick: Hitmonlee/Hitmonchan LvL 25 (Dojo) |
-| Sabrina | Sabrina Supporter: Lapras LvL 25 (Silph Co.) |
-| Mansion | Mansion Minion: LvL 30 (Fossil, Cinnabar Island) |
-| Blaine | Blaine Bro: Articuno LvL 50 (Seafoam Islands) |
-| Gio | Gio Amigo: Zapdos LvL 50 (Power Plant) |
-| Double Battles | Doubles Date: Old Amber (Cinnabar Island) |
-| Victory Road (Indigo Plateau) | Indigo Intern: Moltres LvL 50 (Sevii Island 1) |
-| E4 (Whole Party) | Build your 6 Mon team however you see fit, consisting of your Pack Leader and 5 Buddies Buddies may learn any moves you have, hold any legal items, and all abilities are allowed. |
+| Hideout                               | Hideout Homie: Eevee LvL 25 (Free from Celadon Roof, enter through the back door)                                                                                                                                               |
+| Tower                                 | Tower Teammate: Celadon Game Corner Buy-a-mon (Abra LvL 9, Clefairy LvL 8, Dratini LvL 18, Scyther LvL 25, Porygon LvL 26)                                                                                                      |
+| Erika                                 | Erika Expounder: Marowak in Lav Tower                                                                                                                                                                                           |
+| Koga                                  | Koga Companion: Snorlax 1 LvL 30 (Route 12)                                                                                                                                                                                     |
+| Dojo                                  | Dojo Devotee: Snorlax 2 LvL (Route 16)                                                                                                                                                                                          |
+| Silph Co                              | Silph Sidekick: Hitmonlee/Hitmonchan LvL 25 (Dojo)                                                                                                                                                                              |
+| Sabrina                               | Sabrina Supporter: Lapras LvL 25 (Silph Co.)                                                                                                                                                                                    |
+| Mansion                               | Mansion Minion: LvL 30 (Fossil, Cinnabar Island)                                                                                                                                                                                |
+| Blaine                                | Blaine Bro: Articuno LvL 50 (Seafoam Islands)                                                                                                                                                                                   |
+| Gio                                   | Gio Amigo: Zapdos LvL 50 (Power Plant)                                                                                                                                                                                          |
+| Double Battles                        | Doubles Date: Old Amber (Cinnabar Island)                                                                                                                                                                                       |
+| Victory Road (Indigo Plateau)         | Indigo Intern: Moltres LvL 50 (Sevii Island 1)                                                                                                                                                                                  |
+| E4 (Whole Party)                      | Build your 6 Mon team however you see fit, consisting of your Pack Leader and 5 Buddies Buddies may learn any moves you have, hold any legal items, and all abilities are allowed.                                              |
 
 ### [Top](#buddymon) | [Settings](#settings)
