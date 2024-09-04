@@ -6,7 +6,7 @@ Created By [BigMurph619](https://www.twitch.tv/bigmurph619)
 
 ---
 
-Sometimes, dungeons can be a bit scary. 
+Sometimes, dungeons and spooky places can be, well, spooky. 
 BuddyMon gives you the chance to bring a pal so you don’t have to be alone in your spooky time. 
 Ok go win and have fun!
 
@@ -25,7 +25,7 @@ Ok go win and have fun!
 
 # Banned Abilites
 
-- Huge Power
+- Huge Power/Pure Power
 - Pickup
 
 > Pickup ban only applies to primary Mon
@@ -36,7 +36,7 @@ Ok go win and have fun!
 - No Held Items On Opponents
 - Boss Trainers have +3 Pokemon
 - All Moves And Pokemon Are Randomized
-- Strong Legendaries Have Slow Growth Rate (600 BST)
+- Strong Legendaries Have Slow Growth Rate (Over 600 BST)
 - Catch Rates Are 100%
 
 ```bash
