@@ -30,7 +30,7 @@ Ok go win and have fun!
 - Huge Power/Pure Power
 - Pickup
 
-> banned abilites only applies to primary Mon
+> banned abilites only apply to primary Mon
 
 # Banned Items
 
