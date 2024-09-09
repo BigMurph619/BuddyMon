@@ -30,6 +30,16 @@ Ok go win and have fun!
 
 > Pickup ban only applies to primary Mon
 
+# Banned Items
+
+- EXP share
+- Reviving items
+- Leftovers
+- Shell bell
+- Macho brace
+
+> Note; Flutes allowed
+
 # Settings
 
 - No Smart AI
