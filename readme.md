@@ -20,7 +20,9 @@ Ok go win and have fun!
 - Pain Split
 - Heal Bell
 - Aromatherapy
+- Spore
 
+**Note;** Banned moves only apply to primary mon
 **Note;** Assist Is Allowed
 
 # Banned Abilites
@@ -28,7 +30,7 @@ Ok go win and have fun!
 - Huge Power/Pure Power
 - Pickup
 
-> Pickup ban only applies to primary Mon
+> banned abilites only applies to primary Mon
 
 # Banned Items
 
