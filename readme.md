@@ -45,7 +45,7 @@ Ok go win and have fun!
 
 # Rules
 
-1) You may pick your lab Pokemon. This is your Pack Leader. You must run your Pack Leader for the entire game. The Pack Leader must be under 555 BST unless it is a favorite. You may pick 3 favorites over 555 BST.
+1) You may pick your lab Pokemon. This is your Pack Leader. You must run your Pack Leader for the entire game. The Pack Leader must be 555 BST or under unless it is a favorite. You may pick 3 favorites over 555 BST.
 
 >All legendaries are allowed, NOTE: Over 600 BST Mons will have slow Growth rates, Slaking is Banned
 
