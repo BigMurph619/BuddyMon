@@ -72,10 +72,11 @@ Ok go win and have fun!
 10) Sevii islands and Double Battles are free game and considered “Overworld”.
 11) Buddies must be the one to learn needed HMs for needed points (i.e. Cut for Surge, Erika Strength for victory Road).
 12) You may use the move deleter, move relearner, and Sketch to your heart’s desire.
-13) Baby Clause - If you get a Baby Pokemon (Pichu, Cleffa, Igglybuff, Togepi, Tyrogue, Smoochum, Elekid, Magby, Azurill, Wynaut) you may put it in the daycare until level 100. However, you may not use it for its Buddy purpose and it can only be used in the Elite 4.
-14) Game Corner- you may buy whichever Buy-a-mon Buddy you’d like but, only 1. You may also buy 1 Game Corner TM (They’re Randomized) after beating hideout.
-15) You may trade your Buddy for any of the in game trades if you get one as a Buddy. The received mons are randomized. The trade away mons stay the same (Abra Route 2, Nidoran Underground Tunnel North, Nidorino Route 11, Golduck Route 18 Gate, Poliwhirl Cerulean City, Spearow Vermillion City, Ponyta Cinnabar Island, Raichu Cinnabar Island, Venonat Cinnabar Island).
-16) Fetch Clause - If you have a dog (Growlithe, Arcanine, Snubull, Granbull, Houndour, Houndoom, Raikou, Entei, Suicune, Poochyena, Mightyena, Electrike, Manectric, Absol) as a buddy at any point with pickup you may keep the items it fetches.
+13) Jackpot clause - If your table is all over 555 BST Pokemon you run whichever you'd like.
+14) Baby Clause - If you get a Baby Pokemon (Pichu, Cleffa, Igglybuff, Togepi, Tyrogue, Smoochum, Elekid, Magby, Azurill, Wynaut) you may put it in the daycare until level 100. However, you may not use it for its Buddy purpose and it can only be used in the Elite 4.
+15) Game Corner- you may buy whichever Buy-a-mon Buddy you’d like but, only 1. You may also buy 1 Game Corner TM (They’re Randomized) after beating hideout.
+16) You may trade your Buddy for any of the in game trades if you get one as a Buddy. The received mons are randomized. The trade away mons stay the same (Abra Route 2, Nidoran Underground Tunnel North, Nidorino Route 11, Golduck Route 18 Gate, Poliwhirl Cerulean City, Spearow Vermillion City, Ponyta Cinnabar Island, Raichu Cinnabar Island, Venonat Cinnabar Island).
+17) Fetch Clause - If you have a dog (Growlithe, Arcanine, Snubull, Granbull, Houndour, Houndoom, Raikou, Entei, Suicune, Poochyena, Mightyena, Electrike, Manectric, Absol) as a buddy at any point with pickup you may keep the items it fetches.
 
 >Note; Battle style should be set to shift
 
