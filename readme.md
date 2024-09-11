@@ -23,6 +23,7 @@ Ok go win and have fun!
 - Spore
 
 **Note;** Banned moves only apply to primary mon
+
 **Note;** Assist Is Allowed
 
 # Banned Abilites
