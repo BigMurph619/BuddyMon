@@ -16,7 +16,7 @@ Ok go win and have fun!
 
 - Pure Setup
 - Pure HP Healing
-- Leech Seed
+- Leech Seed **Apllies to Buddies also**
 - Pain Split
 - Heal Bell
 - Aromatherapy
